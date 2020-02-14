@@ -6,7 +6,7 @@
 
 ## Google Maps API:
 - Embeded map in page 
-  ```js 
+  ```html
   <div id="map"></div>
     <script>
       var map;
